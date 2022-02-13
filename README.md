@@ -22,6 +22,14 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 - uuid
 - Bootstrap
 
+## Hosting
+
+| Project                            |  Tech-Blog URL                                        |
+|------------------------------------|-------------------------------------------------------|
+|  Tech-Blog                         | <https://techblogallan3.herokuapp.com/ >              |
+
+
+
 ## Contributers
 
 - Mbongeni Allan Ngwenya
